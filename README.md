@@ -11,7 +11,7 @@ A list of recommendations for Arch Linux packages I find useful. For general ins
 - `pacman -Ql [pkg]` (List files in a package)
 - `pacman -Qo [file]` (Find out which package owns a file)
 
-        - [`yay replacement and alias`] (https://github.com/Hizw-dev/arch-pkgs/blob/main/yay.txt) (Yet another yogurt. Pacman wrapper and AUR helper written in go.)
+-        [`yay replacement and alias`](https://github.com/Hizw-dev/arch-pkgs/blob/main/yay.txt) (Yet another yogurt. Pacman wrapper and AUR helper written in go.)
 
 ## System
 
