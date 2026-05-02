@@ -1,4 +1,5 @@
 #alias yaoS='yay  --color always -S --needed'
+
 alias yaS='yay  --color always -S --asdeps --needed'
 alias yaSS='yay  --color always -S'
 alias yaU='yay  --color always -U'
