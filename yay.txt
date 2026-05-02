@@ -1,0 +1,21 @@
+#alias yaoS='yay  --color always -S --needed'
+alias yaS='yay  --color always -S --asdeps --needed'
+alias yaSS='yay  --color always -S'
+alias yaU='yay  --color always -U'
+alias yaR='yay  --color always -Rs'
+alias yaD='yay  --color always -Sw'
+alias yaSyua='yay  --color always -Syu --aur'
+alias yaSua='yay  --color always -Su --aur'
+alias yaSy='yay  --color always -Sy'
+alias yaSu='yay  --color always -Su'
+#alias yaG="cd /home/$(whoami)/yay  --color always/ ; yay  --color always -G"
+#alias yaG="cd $HOME/AUR/ ; yay  --color always -G"
+alias yaG='cd /home/AUR/ ; yay  --color always -G'
+alias yai='yay  --color always -Sii'
+alias yaq='yay  --color always -Qs'
+alias yaii='yay  --color always -Qii'
+alias yal='yay  --color always -Ql'
+alias yao='yay  --color always -Qo'
+###alias yaoS='packer -S --needed'
+###alias pkG="cd /home/$(whoami)/packer/ ; yay  --color always -G"
+
