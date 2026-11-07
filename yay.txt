@@ -19,4 +19,4 @@ alias yal='yay  --color always -Ql'
 alias yao='yay  --color always -Qo'
 ###alias yaoS='packer -S --needed'
 ###alias pkG="cd /home/$(whoami)/packer/ ; yay  --color always -G"
-
+#asdf
